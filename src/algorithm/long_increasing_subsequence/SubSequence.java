@@ -1,4 +1,4 @@
-package long_increasing_subsequence;
+package algorithm.long_increasing_subsequence;
 
 /**
  * Created by Haochen on 2016/12/4.

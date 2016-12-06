@@ -1,4 +1,4 @@
-package queen;
+package algorithm.queen;
 
 /**
  * Created by Haochen on 2016/12/3.
@@ -25,6 +25,7 @@ public class QueenAllResult extends Queen {
                     display(result);
                     System.out.println("-----------------------------------");
                     count++;
+                    result[n] = -1;
                     return false;
                 } else if (queen(result, n + 1)) {
                     return true;

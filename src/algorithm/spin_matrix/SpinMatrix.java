@@ -1,4 +1,4 @@
-package spin_matrix;
+package algorithm.spin_matrix;
 
 /**
  * Created by Haochen on 2016/12/2.

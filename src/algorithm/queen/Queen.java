@@ -1,4 +1,4 @@
-package queen;
+package algorithm.queen;
 
 /**
  * Created by Haochen on 2016/12/3.
